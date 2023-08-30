@@ -1,2 +1,4 @@
 # numerical_pde
-Numerical linear algebra, numerical pde, complex analysis, with matlab, python, cuda, fpga HLS, etc
+Numerical linear algebra, numerical pde, complex analysis
+
+In matlab, python, C++, cuda, fpga HLS, etc
