@@ -66,3 +66,4 @@ B = A'
 
 % linear combination, independent
 % Matrix inverse and division
+inv(A)
